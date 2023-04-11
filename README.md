@@ -1,23 +1,45 @@
 # ALURA Latam - Oracle One (Oracle Next Education)
 
-## CURSOS
+## FORMACIONES
 
-### Curso: Lógica de programación: Primeros pasos
+### Formaciones en Innovación y Gestión
 
-Código en GitHub: <https://github.com/alura-cursos/logica_progamacion_parte1/tree/aula5>
+#### Aprender a Aprender
 
-### Curso: Lógica de programación: Conceptos primordiales
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/5e2832f0-510a-4db9-9920-43eaa8059a49>
 
-Código en GitHub: <https://github.com/alura-cursos/logica_programacion_parte2/tree/aula5>
+#### Foco: Enfocarse trae más resultados para el día a día
 
-### Curso: Lógica de programación Practicando con juegos y animaciones
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/8aef5ad5-83df-44dc-b2fb-ea8ed6580d7d>
 
-Código en GitHub: <https://github.com/alura-cursos/logica_programacion_parte3/tree/aula5>
+#### Hábitos: Ser productivo para cumplir sus metas personales
+
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/0228ad57-e223-494e-be58-e8b326372c0b>
+
+#### LinkedIn: Como hacer que tu perfil trabaje por ti
+
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/acbd0c6f-9f56-43db-a083-78c2a48858a6>
+
+### Formaciones en Programación
+
+#### Lógica de programación: Primeros pasos
+
+- Código en GitHub: <https://github.com/alura-cursos/logica_progamacion_parte1/tree/aula5>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/286eaadc-3fd8-495b-9a41-c3af0aef8237>
+
+#### Lógica de programación: Conceptos primordiales
+
+- Código en GitHub: <https://github.com/alura-cursos/logica_programacion_parte2/tree/aula5>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/0aeaa1a5-0f9e-43af-a211-0972ab8c3fc7>
+
+#### Lógica de programación Practicando con juegos y animaciones
+
+- Código en GitHub: <https://github.com/alura-cursos/logica_programacion_parte3/tree/aula5>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/36b900e2-666c-4efc-993f-cc8b5b7e72ac>
 
 ## PROYECTOS - Alura Challenges
 
 ### Encriptador de texto
 
-Código en GitHub:
-
-Proyecto desplegado en GitHub Pages:
+- Código en GitHub:
+- Proyecto desplegado en GitHub Pages:
