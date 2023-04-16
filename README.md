@@ -42,6 +42,11 @@
 - Código en GitHub: <https://github.com/alura-es-cursos/1742-HTML5-y-CSS3-parte1/tree/aula6>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/91ff9a4a-5df0-4fdb-8877-69cea4ff6506>
 
+#### HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación
+
+- Código en GitHub: <https://github.com/alura-es-cursos/1759-HTML5-y-CSS3-parte2/tree/aula7>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/c7e87704-8af5-410d-8adb-f35dd437679d>
+
 ## PROYECTOS - Alura Challenges
 
 ### Encriptador de texto
