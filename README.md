@@ -1,4 +1,4 @@
-# ALURA Latam - Oracle One (Oracle Next Education)
+# ALURA Latam - Oracle ONE (Oracle Next Education)
 
 ## FORMACIONES
 
