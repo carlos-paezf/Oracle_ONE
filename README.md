@@ -37,9 +37,14 @@
 - Código en GitHub: <https://github.com/alura-cursos/logica_programacion_parte3/tree/aula5>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/36b900e2-666c-4efc-993f-cc8b5b7e72ac>
 
+#### HTML5 y CSS3 parte 1: Mi primera página web
+
+- Código en GitHub: <https://github.com/alura-es-cursos/1742-HTML5-y-CSS3-parte1/tree/aula6>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/91ff9a4a-5df0-4fdb-8877-69cea4ff6506>
+
 ## PROYECTOS - Alura Challenges
 
 ### Encriptador de texto
 
-- Código en GitHub:
-- Proyecto desplegado en GitHub Pages:
+- Código en GitHub: <https://github.com/carlos-paezf/ONE_Encriptador>
+- Proyecto desplegado en GitHub Pages: <https://carlos-paezf.github.io/ONE_Encriptador/>
