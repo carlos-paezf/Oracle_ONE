@@ -47,6 +47,11 @@
 - Código en GitHub: <https://github.com/alura-es-cursos/1759-HTML5-y-CSS3-parte2/tree/aula7>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/c7e87704-8af5-410d-8adb-f35dd437679d>
 
+#### HTML5 y CSS3 parte 3: Trabajando con formularios y tablas
+
+- Código en GitHub: <https://github.com/alura-es-cursos/1768-HTML5-y-CSS3-parte3/tree/aula6>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/74b494b6-63eb-4219-896e-e50ea6734d59>
+
 ## PROYECTOS - Alura Challenges
 
 ### Encriptador de texto
