@@ -37,20 +37,27 @@
 - Código en GitHub: <https://github.com/alura-cursos/logica_programacion_parte3/tree/aula5>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/36b900e2-666c-4efc-993f-cc8b5b7e72ac>
 
-#### HTML5 y CSS3 parte 1: Mi primera página web
+#### HTML5 y CSS3
+
+##### Parte 1: Mi primera página web
 
 - Código en GitHub: <https://github.com/alura-es-cursos/1742-HTML5-y-CSS3-parte1/tree/aula6>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/91ff9a4a-5df0-4fdb-8877-69cea4ff6506>
 
-#### HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación
+##### Parte 2: Posicionamiento, listas y navegación
 
 - Código en GitHub: <https://github.com/alura-es-cursos/1759-HTML5-y-CSS3-parte2/tree/aula7>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/c7e87704-8af5-410d-8adb-f35dd437679d>
 
-#### HTML5 y CSS3 parte 3: Trabajando con formularios y tablas
+##### Parte 3: Trabajando con formularios y tablas
 
 - Código en GitHub: <https://github.com/alura-es-cursos/1768-HTML5-y-CSS3-parte3/tree/aula6>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/74b494b6-63eb-4219-896e-e50ea6734d59>
+
+#### Parte 4: Avanzando en CSS
+
+- Código en GitHub: <https://github.com/alura-es-cursos/1769-HTML5-y-CSS3-parte4/tree/aula6>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/28acf840-4c4f-4967-8df8-27d542c293d8>
 
 ## PROYECTOS - Alura Challenges
 
