@@ -54,10 +54,15 @@
 - Código en GitHub: <https://github.com/alura-es-cursos/1768-HTML5-y-CSS3-parte3/tree/aula6>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/74b494b6-63eb-4219-896e-e50ea6734d59>
 
-#### Parte 4: Avanzando en CSS
+##### Parte 4: Avanzando en CSS
 
 - Código en GitHub: <https://github.com/alura-es-cursos/1769-HTML5-y-CSS3-parte4/tree/aula6>
 - Certificado de terminación del curso: <https://app.aluracursos.com/certificate/28acf840-4c4f-4967-8df8-27d542c293d8>
+
+#### Git y GitHub: controla y comparta su código
+
+- Código en GitHub: <https://github.com/alura-es-cursos/1760-git-github-control-de-version/tree/aula6>
+- Certificado de terminación del curso: <https://app.aluracursos.com/certificate/e8f4bc76-238c-4bd5-9208-62bf36ebdb28>
 
 ## PROYECTOS - Alura Challenges
 
